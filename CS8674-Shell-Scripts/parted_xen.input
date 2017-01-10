@@ -1,0 +1,5 @@
+set 1 legacy_boot on
+set 1 msftdata on
+set 2 msftdata on
+set 3 lvm on
+quit

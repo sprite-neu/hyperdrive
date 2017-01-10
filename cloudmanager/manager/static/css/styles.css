@@ -1,0 +1,122 @@
+.upperFormTitle {
+	margin-top: 5%;
+	margin-left: 5%;
+	border-bottom: 1px solid #CCC;
+}
+
+.rightForm {
+	width: 95%;
+}
+
+.deployClients {
+	margin-left: 8%;
+	width: 150%;
+}
+
+.deploymentStatus {
+	height: 150%;
+	width: 180%;
+}
+
+.selectOptionsTitle {
+	margin-top: 6.5%;
+	margin-left: 5%;
+	border-bottom: 1px solid #CCC;
+}
+
+.lowerFormTitle {
+	margin-top: 5%;
+	padding-bottom: 2%;
+	margin-left: 5%;
+	border-bottom: 1px solid #CCC;
+}
+
+
+.statusTitle{
+	margin-top: 2%;
+	margin-left: 3%;
+	margin-right: 3%;
+	border-bottom: 1px solid #CCC;
+}
+
+.header {
+	color: #ffffff;
+	position:absolute; 
+	top:0px; 
+	left:0px; 
+	height:10%; 
+	right:0px;
+	overflow:hidden;
+	background-color: #333333;
+}
+
+.content {
+	position:absolute; 
+	top:10%; 
+	bottom:10%; 
+	left:0px; 
+	right:0px; 
+	overflow-y:auto;
+	overflow-x:hidden;
+}
+
+.footer {
+	position:absolute; 
+	bottom:0px; 
+	left:0px; 
+	height:10%; 
+	right:0px;
+	overflow:hidden;
+	background-color: #333333;
+}
+
+.configFile {
+	margin-top: 2%;
+	margin-left: 10%;
+	width: 80%;
+}
+
+.configCode {
+	max-height: 500px;
+	overflow-y: auto;
+}
+
+.forms {
+	margin-left: 3%;
+	margin-top: 2%;
+}
+
+.forms2 {
+	margin-left: 5%;
+	margin-top: 2%;
+	margin-bottom: 4%;
+}
+
+.scroll {
+	margin-top: 3%;
+	margin-left: 20%;
+	height: 50%;
+	width: 60%;
+	overflow-y: auto;
+	border: 1px solid #666;
+	background-color: #000000;
+	padding: 8px;
+	box-shadow: 10px 10px 5px #808080;
+	font-weight: bold;
+	font-family: "Courier New";
+	color: #00FF00;
+}
+
+.clientsScroll {
+	margin-top: 3%;
+	margin-left: 8%;
+	height: 50%;
+	width: 130%;
+	overflow-y: auto;
+	background-color: #cccccc;
+	padding: 8px;
+	box-shadow: 10px 10px 5px #808080;
+	font-weight: bold;
+	font-family: "Courier New";
+	color: #000000;
+}
